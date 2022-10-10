@@ -9,3 +9,6 @@ Current examples
 
 * [788BS non blocking](788bs_nonblocking/README.MD) An example of using a 8x8 LED Matrix, supporting several transition
 styles. Easily create new transition styles. API is non blocking without using threads.
+
+* [OLED SSD1306 Snake Game](snake/README.MD) An example of the old Snake game using a monochromatic SSD1306 OLED 
+Display.

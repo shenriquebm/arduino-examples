@@ -1,3 +1,10 @@
+<!-- TOC -->
+* [8x8 LED 788BS](#8x8-led-788bs)
+  * [Basic example](#basic-example)
+  * [Additional Examples](#additional-examples)
+  * [Adding new transition animations](#adding-new-transition-animations)
+<!-- TOC -->
+
 # 8x8 LED 788BS
 
 Hardware/software used
